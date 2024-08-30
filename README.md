@@ -34,24 +34,24 @@ A cross-platform mobile application built with Xamarin Forms and Visual Studio t
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-### Prerequisites
+## Prerequisites
 
 - Visual Studio with Xamarin development tools installed.
 - .NET SDK
 - Emulators for iOS (iPhone 15) or Android (Google Pixel 7) for testing.
 
-### Usage
+## Usage
 
 - Run the application using an emulator or a physical device.
 - Log in with the credentials provided below or create a new account.
 - View the list of books and manage checkouts and returns.
 
-### Valid Credentials
+## Valid Credentials
 
 - Username: peter, Password: 1234
 - Username: mary, Password: 0000
 
-### Technologies Used
+## Technologies Used
 
 - Xamarin Forms: Cross-platform UI toolkit for .NET.
 - SQLite: Data persistence using sqlite-net-pcl library.
